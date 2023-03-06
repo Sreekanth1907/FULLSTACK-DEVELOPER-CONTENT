@@ -1,0 +1,99 @@
+    Introduction to Persistence Technology
+
+    What is Persistence Technology
+    How to Persist data on a File Storage and challenges
+    Types of Database Management Systems, why only relational database?
+    Way to HIBERNATE
+
+    What is ORM technology and how hibernate and JPA fits to this world?
+    Drawbacks with JDBC and advantages with Hibernate Framework.
+    Relational Database basics
+
+    Normalization
+    Table relationships
+    Understand Object Oriented world and relationship between objects
+
+    Hibernate Framework Architecture
+
+    Jump Start to HIBERNATE
+
+    Hibernate Mapping
+    Hibernate Configuration
+    Hibernate Core Objects API
+    Managing SessionFactory
+    Working with Transaction API
+    HIBERNATE VS JDBC Technology
+
+    HIBERNATE Bootstrapping
+
+    1. 3.x Bootstrapping
+
+    a. Programmatic approach
+    b. Properties based approach
+    c. Xml-based Configuration approach
+
+    2. 4.x Bootstrapping
+
+    a. Service & Service Registry
+    b. Binding Custom Service to ServiceRegistry
+
+    3. 5.x Bootstrapping (Metadata api classes)
+
+    HIBERNATE Tools
+
+    GUI TOOLS
+    Hibernate Mapping Editor
+    Hibernate Configuration Wizard
+    Reverse Engineering Tool
+    HQL Editor
+    Criteria Editor
+    COMMAND-LINE TOOLS
+    Hibernate Single Object Query API [GET/LOAD]
+
+    First-Level Cache Support
+
+    Hibernate Annotations
+
+    JPA API
+
+    Introduction to JPA API
+    Core objects of JPA API
+    ORM.XML and PERSISTENCE.XML
+    JPA Annotations
+    Primary Key Generators
+
+    Hibernate Key Generators
+    JPA Key Generators
+    Composite Primary Keys (HIBERNATE/JPA)
+
+    Hibernate Object Entity Lifecycle
+
+    Hibernate Mappings (BOTH XML AND ANNOTATIONS PARALLEL EXPLANATION)
+
+    Inheritance Mapping Model
+    Table per class hierarchy
+    Table per sub-class
+    Table per Concrete Class
+    Component Mapping Model
+    Association Mapping Model (UNI/BI DIRECTIONAL)
+    One-To-One
+    One-To-Many
+    Many-To-Many
+    What is Inverse? When to use?
+    N+1 Problem how to solve?
+    Fetch Join
+    Cascade Options
+    QUERY API
+
+    HQL/JPQL Queries
+    JPA QUERY API
+    Named Queries
+    Named Parameters
+    Native SQL Queries
+    CRITERIA API
+
+    JPA / HIBERNATE 5 Criteria API
+    Second-Level Cache Support (HIBERNATE/JPA)
+
+    Global Transactions
+
