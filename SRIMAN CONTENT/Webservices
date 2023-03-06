@@ -1,0 +1,90 @@
+            WEB SERVICES
+            ------------
+    1. Introduction to Distributed Technology
+    -----------------------------------------
+
+    Why Distributed Technology
+    Forces/Circumstances in building applications on distributed technology
+    Evolution and Support of Distributed Technology in Market
+    Java Support in developing distributed technology applications
+
+    2. Role of Data Representation Standards like XML, JSON and YAML and how are they being used in building distributed applications
+    -----------------------------------------------------------------------------------------------------------------------------------
+    eXtensible Markup Language (XML)
+
+    Well-formness and validity of XML
+    Why DTD and basics of DTD
+    Why XSD an alternate to DTD and deep dive on XSD Language and namespace
+
+    3. XML Programming
+    -------------------
+
+    Java api for XML Parsing (jax-p api)
+    Java Architecture for XML Binding (jax-b api)
+
+    4. SIMPLE OBJECT ACCESS PROTOCOL (SOAP) SERVICES
+-------------------------------------------------------
+    Architecture of SOAP Web Services
+    Concepts of SOAP Web Services
+    Java Api for Xml Remote Procedural calls (jaxrpcapi) using jaxrpcsi implementation
+
+    Java Api for Xml Web Services (jaxwsapi)
+
+    Jaxws Reference Implementation (jaxwsri)
+    Apache CXF (SOAP Integration with Spring Framework
+    Developing Provider Program using contact-first and contract-last approach
+
+    Building Consumer Programs using jaxrpcapi and using jaxwsapi
+
+    In-Depth coverage of WSDL Document
+
+    SOAP Web Service Security
+
+    5. JAVASCRIPT OBJECT NOTATION
+    -------------------------------
+
+    Understand JSON
+    JSON JAVA API
+    JSON Reader API
+    JSON PARSING API
+    JSON BINDING API
+    "YAMLAin't Markup Language"
+
+    6. RESTFUL WEB SERVICES
+    -------------------------
+
+    What is Restful Services and Principles of Restful Services
+    Architecture of Restful Services
+    HTTP Method and Statuses
+    Building Restful Service using HTTP Methods
+    Building URI’s and working with Template Parameters
+    Sub-Resource Locator Methods
+    Resource Injection
+    Java Automatic Type Conversion
+    Custom Type Converters
+    Resource Handlers
+    Custom Resource Handlers
+    Server Responses and Exception Handling
+    Building Client Programs in Restful Services
+    Caching
+    Asynchronous Restful Service development
+    Securing Restful Services
+    Basic Authentication security
+    OAuth2 Security standards
+    Swagger Integration with Restful Services for service description.
+
+    7. Micro services (USING SPRINGFRAMEWORK & CLOUD)
+    ---------------------------------------------------------------
+
+    Concept of Monolithic application and Microservice based application development
+    Patterns of Microservices
+    Data Consistency using Saga Pattern
+    Choreography-based Saga
+    Orchestration-based Saga
+    API Composer
+    Command Query Responsibility Segregation (CQRS)
+    Implementing Microservices using Spring Cloud and Netflix
+    Eureka
+    Ribbon
+    Feign
+    Hystrix
